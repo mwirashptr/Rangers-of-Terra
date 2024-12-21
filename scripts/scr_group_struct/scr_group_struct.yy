@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_group_struct",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_group_struct",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

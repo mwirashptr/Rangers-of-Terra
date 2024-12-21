@@ -1,0 +1,1 @@
+x += input_x * move_speed

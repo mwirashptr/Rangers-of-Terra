@@ -1,0 +1,47 @@
+{
+  "$GMTileSet":"",
+  "%Name":"TileSet3",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"TileSet3",
+  "out_columns":3,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"gedung_blakang_destroyed",
+    "path":"sprites/gedung_blakang_destroyed/gedung_blakang_destroyed.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimation":{
+    "FrameData":[
+      0,0,0,0,0,0,0,0,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,1,3,4,5,6,7,1,1,2,4,5,6,7,1,1,2,3,5,6,7,1,1,2,3,4,6,7,
+      1,1,2,3,4,5,7,1,1,2,3,4,5,6,
+    ],
+    "SerialiseFrameCount":8,
+  },
+  "tileAnimationFrames":[
+    {"$GMTileAnimation":"","%Name":"animation_1","frames":[1,2,3,4,5,6,7,1,],"name":"animation_1","resourceType":"GMTileAnimation","resourceVersion":"2.0",},
+  ],
+  "tileAnimationSpeed":4.0,
+  "tileHeight":156,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":256,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":8,
+}

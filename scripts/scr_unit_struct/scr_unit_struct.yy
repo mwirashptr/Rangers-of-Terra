@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_unit_struct",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_unit_struct",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
